@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(psql *)",
+      "Bash(mysql *)",
+      "Bash(sqlite3 *)",
+      "Bash(sqlcmd *)",
+      "Bash(mongosh *)",
+      "Bash(redis-cli *)",
+      "mcp__*"
+    ]
+  }
+}
